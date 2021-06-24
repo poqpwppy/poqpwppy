@@ -5,5 +5,5 @@
 # Một số project của mình
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
-| quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: dsc.gg/quak |
-| Radio 1975 | A discord music bot for Radio 1975 Discord Server | discord.gg/r75 |
+| quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: https://dsc.gg/quak |
+| Radio 1975 | A discord music bot for Radio 1975 Discord Server | htps://discord.gg/r75 |
