@@ -1,6 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quak910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=quak910&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![quak910's GitHub stats](https://github-readme-stats.vercel.app/api?username=quak910)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 # Một số project của mình
 | Tên | Giới thiệu | Link |
