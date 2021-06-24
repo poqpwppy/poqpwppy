@@ -1,4 +1,4 @@
-[![quak910's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quak910&layout=compact)]
+![quak910's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quak910&layout=compact)
 
 ![quak910's GitHub stats](https://github-readme-stats.vercel.app/api?username=quak910&count_private=true)
 
