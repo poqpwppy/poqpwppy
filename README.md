@@ -8,7 +8,6 @@
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
 | quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: https://dsc.gg/quak |
-| Radio 1975 | A discord music bot for Radio 1975 Discord Server | https://discord.gg/r75 |
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=814034700997361664&permissions=8&scope=bot">
     <img src="https://cdn.discordapp.com/attachments/806542839902765068/832560735698944020/quakbg.png" alt="quak" />
