@@ -11,5 +11,5 @@
 # Some of my projects
 | Name | Description | Link |
 |------|------|-----------|
-| Radio1975 | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Source code: [Radio1975](https://github.com/poqpwppy/Radio1975] |
+| Radio1975 | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Source code: [Radio1975](https://github.com/poqpwppy/Radio1975) |
 | poqpwppy.github.io | Personal website with cool stuffs | Link: https://poqpwppy.github.io |
