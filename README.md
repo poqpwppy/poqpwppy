@@ -8,8 +8,8 @@
 
  
 
-# Một số project của mình
+# Some of my projects
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
 | quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: https://dsc.gg/quak |
-| quak910.github.io | Personal website with cool stuffs | Link: https://quak910.github.io |
+| poqpwppy.github.io | Personal website with cool stuffs | Link: https://poqpwppy.github.io |
