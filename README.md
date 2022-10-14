@@ -11,5 +11,5 @@
 # Some of my projects
 | Name | Description | Link |
 |------|------|-----------|
-| quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: https://dsc.gg/quak |
-| poqpwppy.github.io | Personal website with cool stuffs | Link: [Personal website](https://poqpwppy.github.io) |
+| Radio1975 | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Source code: [Radio1975](https://github.com/poqpwppy/Radio1975] |
+| poqpwppy.github.io | Personal website with cool stuffs | Link: https://poqpwppy.github.io |
