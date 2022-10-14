@@ -12,4 +12,4 @@
 | Name | Description | Link |
 |------|------|-----------|
 | quak | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Invite now: https://dsc.gg/quak |
-| poqpwppy.github.io | Personal website with cool stuffs | Link: https://poqpwppy.github.io |
+| poqpwppy.github.io | Personal website with cool stuffs | Link: ![Personal website](https://poqpwppy.github.io) |
