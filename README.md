@@ -1,8 +1,10 @@
-![poqpwppy's GitHub Profile Views](https://komarev.com/ghpvc/?username=poqpwppy&color=ff69b4)
+![Profile View](https://komarev.com/ghpvc/?username=poqpwppy&style=flat-square)
 
-![poqpwppy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact)
 
-![poqpwppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqpwppy&theme=tokyonight&count_private=true)
+![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight)
+
+![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=poqpwppy&theme=tokyonight&hide_border=false)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
