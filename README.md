@@ -1,5 +1,7 @@
 ![Profile View](https://komarev.com/ghpvc/?username=poqpwppy&style=flat-square)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+designer;I'm+a+coder)](https://git.io/typing-svg)
+
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight)
