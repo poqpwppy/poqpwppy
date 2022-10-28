@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I'm+a+designer;I'm+a+coder)](https://git.io/typing-svg)
 
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact) ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight) ![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=poqpwppy&theme=tokyonight&hide_border=false)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 # Laptop brand i'm using
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
