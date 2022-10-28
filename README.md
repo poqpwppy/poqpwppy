@@ -21,6 +21,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+# Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight) ![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=poqpwppy&theme=tokyonight&hide_border=false)
