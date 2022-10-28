@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I'm+a+designer;I'm+a+coder)](https://git.io/typing-svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6mupqkid6lpokscq2pk5rb15o&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6mupqkid6lpokscq2pk5rb15o&redirect=true)
-
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight)
