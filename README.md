@@ -29,5 +29,6 @@
 # Some of my projects
 | Name | Description | Link |
 |------|------|-----------|
+| qhhue-api | API cung cấp thông tin, dữ liệu của trường THPT Chuyên Quốc Học Huế! | Source code: [qhhue-api](https://github.com/poqpwppy/qhhue-api) |
 | Radio1975 | A Vietnamese multi-purpose bot with music, moderation, info, soundboard, tts and more! | Source code: [Radio1975](https://github.com/poqpwppy/Radio1975) |
 | poqpwppy.github.io | Personal website with cool stuffs | Link: https://poqpwppy.github.io |
