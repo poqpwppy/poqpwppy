@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I'm+a+designer;I'm+a+coder)](https://git.io/typing-svg)
 
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=poqpwppy&theme=tokyonight&layout=compact) 
-
 # Laptop brand that i'm using
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 
@@ -20,11 +18,6 @@
 ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-# Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-
-![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=poqpwppy&count_private=true&show_icons=true&theme=tokyonight) ![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=poqpwppy&theme=tokyonight&hide_border=false)
 
 # Some of my projects
 | Name | Description | Link |
