@@ -9,22 +9,22 @@
 ╚═╝      ╚═════╝  ╚══▀▀═╝ ╚═╝      ╚══╝╚══╝ ╚═╝     ╚═╝        ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40khoa%3A~%23+whoami;>+intern+penetration+tester;>+breaking+things+so+others+don't+have+to;>+status%3A+still+patching+my+own+homelab" alt="terminal typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FF073A&center=true&vCenter=true&width=650&lines=root%40khoa%3A~%23+whoami;>+intern+penetration+tester;>+breaking+things+so+others+don't+have+to;>+status%3A+still+patching+my+own+homelab" alt="terminal typing" />
 
 </div>
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/LINKEDIN-poqpwppy-39FF14?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=39FF14)](https://www.linkedin.com/in/poqpwppy/)
+[![linkedin](https://img.shields.io/badge/LINKEDIN-poqpwppy-FF073A?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=FF073A)](https://www.linkedin.com/in/poqpwppy/)
 
 </div>
 
 <div align="center">
 
-[![github](https://img.shields.io/badge/-poqpwppy-black?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117)](https://github.com/poqpwppy)
-[![blog](https://img.shields.io/badge/-poqpwppy.fyi-black?style=flat-square&logo=rss&logoColor=39FF14&labelColor=0d1117)](https://poqpwppy.fyi)
-[![writeups](https://img.shields.io/badge/-ctf_writeups-black?style=flat-square&logo=hackthebox&logoColor=39FF14&labelColor=0d1117)](https://poqpwppy.fyi/en/writeups)
-[![mail](https://img.shields.io/badge/-khoa.dang%40viethope.org-black?style=flat-square&logo=protonmail&logoColor=39FF14&labelColor=0d1117)](mailto:khoa.dang@viethope.org)
+[![github](https://img.shields.io/badge/-poqpwppy-black?style=flat-square&logo=github&logoColor=FF073A&labelColor=0d1117)](https://github.com/poqpwppy)
+[![blog](https://img.shields.io/badge/-poqpwppy.fyi-black?style=flat-square&logo=rss&logoColor=FF073A&labelColor=0d1117)](https://poqpwppy.fyi)
+[![writeups](https://img.shields.io/badge/-ctf_writeups-black?style=flat-square&logo=hackthebox&logoColor=FF073A&labelColor=0d1117)](https://poqpwppy.fyi/en/writeups)
+[![mail](https://img.shields.io/badge/-khoa.dang%40viethope.org-black?style=flat-square&logo=protonmail&logoColor=FF073A&labelColor=0d1117)](mailto:khoa.dang@viethope.org)
 
 </div>
 
@@ -164,6 +164,6 @@ status      open to internship offers — reach out, don't ghost
 
 *— poqpwppy*
 
-![profile views](https://komarev.com/ghpvc/?username=poqpwppy&color=39FF14&style=flat-square&label=connections+established)
+![profile views](https://komarev.com/ghpvc/?username=poqpwppy&color=FF073A&style=flat-square&label=connections+established)
 
 </div>
